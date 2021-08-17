@@ -6,4 +6,4 @@
 
 <img src="https://i.ibb.co/yhDm3GR/muestra.png" alt="muestra" border="0">
 
-👉🏽 The<a href='https://photogram-mailing.vercel.app/' target='_blank'> Link:</a>
+👉🏽 The<a href='https://basic-mailing-prpyect.vercel.app/' target='_blank'> Link:</a>
